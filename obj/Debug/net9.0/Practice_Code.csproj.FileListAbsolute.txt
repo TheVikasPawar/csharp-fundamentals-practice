@@ -12,3 +12,4 @@ C:\Users\vikas pawar\OneDrive\Desktop\csharp-fundamentals-practice\Practice_Code
 C:\Users\vikas pawar\OneDrive\Desktop\csharp-fundamentals-practice\Practice_Code\obj\Debug\net9.0\Practice_Code.pdb
 C:\Users\vikas pawar\OneDrive\Desktop\csharp-fundamentals-practice\Practice_Code\obj\Debug\net9.0\Practice_Code.genruntimeconfig.cache
 C:\Users\vikas pawar\OneDrive\Desktop\csharp-fundamentals-practice\Practice_Code\obj\Debug\net9.0\ref\Practice_Code.dll
+C:\Users\vikas pawar\OneDrive\Desktop\csharp-fundamentals-practice\Practice_Code\obj\Debug\net9.0\Practice_Code.sourcelink.json
